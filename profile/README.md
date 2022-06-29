@@ -1,3 +1,5 @@
+The most unreactive programming language.
+
 ## Hi there 👋
 We are the team behind the Argon Programming Language. Argon is a language designed to be easy for new developers to learn and make code.
 
