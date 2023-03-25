@@ -1,15 +1,8 @@
-The most unreactive programming language.
-
-## Hi there 👋
-We are the team behind the Argon Programming Language. Argon is a language designed to be easy for new developers to learn and make code.
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<div align="center">
+<p>
+    <img width="150" src="../ArLogo.png">
+</p>
+<h1>Open Argon</h1>
+<h2>the programming language so unreactive, it makes noble gases look lively.</h2>
+<p>Open Argon is a community dedicated to the development and improvement of the Argon programming language. Join us to stay up-to-date on the latest features, discuss ideas, and collaborate on projects.</p>
+</div>
